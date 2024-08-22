@@ -1,0 +1,12 @@
+footer{
+    padding: 50px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    background-color:#D6EFD8;
+    margin-top: 20px;
+}
+footer h1{
+font-size: 24px;    
+color: #1A5319;
+}
